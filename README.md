@@ -44,7 +44,7 @@
 Safe Path Navigator empowers users to navigate their surroundings safely and confidently, combining real-time data with modern mapping capabilities.
 
 2. **Design Assets**:  
-Some design files, such as UI components and additional images, have not been uploaded yet. These will be added in a future update. Please ensure you have all design-related assets ready when integrating the frontend.
+Some design files, such as UI components and additional images, have not been uploaded yet. These will be added in a future update. 
 
 ---
 
@@ -80,7 +80,7 @@ npm run
 ### **Technologies Used**:
 - **React Native**: Framework for building the mobile app.
 - **Firebase**: Backend for user authentication and data storage.
-- **Google Maps API**: For route mapping and navigation.
+- **HERE API And Others**: For route mapping and navigation.
 - **React Navigation**: For managing navigation between screens.
 - **Axios**: For API calls (if you need external APIs for crime data or other information).
 
